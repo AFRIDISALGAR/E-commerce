@@ -1,0 +1,45 @@
+.navbar-expand-lg {
+    background-color: black !important;
+}
+.fs-1 { font-size: 2.5rem; }
+.fs-2 { font-size: 2rem; }
+.fs-3 { font-size: 1.75rem; }
+.fs-4 { font-size: 1.5rem; }
+.fs-5 { font-size: 1.25rem; }
+.fs-6 { font-size: 1rem; }
+
+.mb-4{
+    color: black;
+}
+
+/* Testimonials Section */
+.testimonials {
+    padding: 60px 0;
+  }
+  
+  .testimonial-card {
+    background: #fff;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+  }
+  
+  .testimonial-card:hover {
+    transform: translateY(-10px);
+  }
+  
+  
+  
+  .rating {
+    color: #ffc107;
+    font-size: 1.2rem;
+  }
+  
+  .section_title h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  
+  .section_title p {
+    font-size: 1.1rem;
+    color: #6c757d;
+  }
